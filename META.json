@@ -1,0 +1,64 @@
+{
+  "category": "team-chat",
+  "created_date": "2025-09-15T22:48:58.144321",
+  "default_ports": [
+    80,
+    443,
+    8065,
+    8067
+  ],
+  "dependencies": [
+    "postgresql"
+  ],
+  "description": "mattermost is a free and open-source open source team collaboration platform. Mattermost provides team messaging and collaboration features, serving as a self-hosted alternative to Slack, Microsoft Teams, or Discord",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/team-chat/mattermost",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/team-chat/mattermost",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.144341",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "mattermost",
+  "repository_url": "https://github.com/howtomgr/mattermost",
+  "spec_version": "2.0",
+  "subcategory": "team-chat",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "team-chat",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "mattermost Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/team-chat/mattermost"
+}
